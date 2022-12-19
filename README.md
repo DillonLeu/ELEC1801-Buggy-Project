@@ -1,10 +1,10 @@
 # ELEC1801 Buggy Final Assessment Group Project
 
-BTLE RN4871 device used to establish connection between master/slave device via bluetooth:
+BTLE RN4871 device used to establish a connection between master/slave device via bluetooth:
 
 ![image](https://user-images.githubusercontent.com/121032332/208453739-5e73e2f6-482b-4288-81b8-1a3fde52b93f.png)
 
-Master used as a remote control system with the used of momentary switches whereas slave control the H - Bridges based on the button pressed on master module.
+The master module connected to momentary switches is used as a remote control system whereas the slave module attached to the buggy is used to control the H - Bridges based on the button pressed on the master module.
 
 ![image](https://user-images.githubusercontent.com/121032332/208467087-e034f11e-7bbf-42f8-8d0b-ff97822e86e6.png)
 
