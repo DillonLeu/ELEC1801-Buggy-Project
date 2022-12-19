@@ -1,4 +1,4 @@
-# ELEC1801 Buggy Final Assessment Group Project
+# ELEC1801 Buggy Final Assessment Group Project (Year 1)
 
 BTLE RN4871 device used to establish a connection between master/slave device via bluetooth:
 
